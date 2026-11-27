@@ -1,0 +1,761 @@
+Digitale Teilhabe
+ermöglichen!
+Tipps zur Vermittlung digitaler
+Kompetenzen an Menschen mit
+Seh- und Hörbeeinträchtigungen
+
+
+
+
+                   Gemeinsam digitale Barrieren überwinden
+                                    www.digital-kompass.de
+
+
+Ein Projekt von:
+
+
+
+
+                                                         1
+Inhalt
+1. Einleitung			                                                 3
+
+2. Allgemeine Tipps für erfolgreiche Wissensvermittlung          5
+   2.1. Sicherstellung der Kommunikation                         5
+   2.2. Interessegeleitetes Vorgehen                             5
+   2.3. Praxis vor Theorie                                       6
+   2.4. Fremde Begriffe erläutern und begrenzen                  6
+   2.5. Wiederholung und Ergebnissicherung                       6
+   2.6. Weniger ist mehr                                         7
+
+3. Der richtige Umgang macht´s                                   8
+   3.1. Menschen mit Hörbeeinträchtigung                         8
+   3.2. Menschen mit Sehbeeinträchtigung                        10
+
+4. Lernsettings – die häufigsten Formate im Überblick           13
+   4.1. Gruppenkurse/Trainings                                  14
+   4.2. Coaching                                                15
+   4.3. Offene Sprechstunde                                     16
+   4.4. Digitale Formate                                        17
+   4.5. Videokonferenzen für Menschen mit Sehbeeinträchtigung   17
+   4.6. Videokonferenzen für Menschen mit Hörbeeinträchtigung   18
+
+5. Grundsätzliche Überlegungen für die Vorbereitung
+   und Durchführung von Wissensangeboten                        21
+
+6. Zum Projekt „Digital-Kompass“                                23
+
+7. Impressum			                                                 25
+
+Kontakt			                                                      28
+
+                                                                 2
+1. Einleitung
+Gesellschaftliche Teilhabe ist inzwischen nicht mehr ohne die alltägliche
+Nutzung digitaler Dienste und Geräte denkbar. Voraussetzungen hierfür sind
+Basiswissen über deren kompetente Nutzung sowie technische Zugänge.
+Eine sichere und souveräne Nutzung digitaler Medien und Geräte kann zu
+einer selbstständigen Gestaltung des Alltags beitragen. Dies gilt gerade für
+Menschen, die mit einer Seh- oder Hörbeeinträchtigung leben.
+
+In Deutschland gibt es etwa 10 Mio. Menschen mit Augenerkrankungen.
+Hauptursachen für einen Sehverlust sind die mit zunehmendem Alter immer
+häufiger auftretenden Augenerkrankungen Altersabhängige Makula-
+Degeneration, Glaukom (Grüner Star) und Diabetische Retinopathie
+(zuckerbedingte Netzhauterkrankung). Darüber hinaus leben knapp 16 Millionen
+schwerhörige Menschen in Deutschland. Die meisten Hörbeeinträchtigungen
+sind durch Lärmbelastung und Alter bedingt oder durch Krankheit oder Unfall
+verursacht.
+
+Beide Gruppen haben gemeinsam, dass die Einschränkungen häufig erst im
+Laufe des Lebens erworben werden und die Menschen somit im Alter lernen
+müssen, mit diesen Einschränkungen umzugehen.
+
+Die fortschreitende Digitalisierung kann für Menschen mit Seh- oder
+Hörbeeinträchtigungen eine selbstständige und selbstbestimmte Gestaltung
+des Lebensalltags unterstützen, allerdings bedürfen sie einer spezifischen
+Ansprache und Aufbereitung von Inhalten, um diese digitalen Kompetenzen
+zu erlangen. Hier können Netzwerkpartnerinnen und -partner mit spezifische
+Kenntnissen unterstützen.
+
+
+
+
+                                                                               3
+In diesem Leitfaden möchten wir aufzeigen, wie Sie Menschen mit Seh- und
+Hörbeeinträchtigungen in bereits bestehende Angebote zum Erwerb digitaler
+Kompetenzen integrieren können.
+
+Mehr allgemeine Hinweise zu verschiedenen Lehr- und Lernsettings,
+methodische Hilfen sowie Hintergrundinformationen zum Thema
+Medienkompetenz finden Sie in unserem Leitfaden „Den leichten Einstieg in die
+digitale Welt vermitteln!“ (https://www.digital-kompass.de/sites/default/files/
+material/files/barrierefrei_Leitfaden_Den_leichten_Enstieg_in_die_digitale_
+Welt_vrmitteln.pdf).
+
+
+
+
+                                                                              4
+2. Allgemeine Tipps für
+   erfolgreiche Wissensvermittlung
+Zunächst sei gesagt: Es gibt kein didaktisches Konzept zur digitalen Bildung
+von älteren Menschen. Aber es gibt ein paar Orientierungspunkte, die bei der
+Organisation und Durchführung von Lehrveranstaltungen hilfreich sein können.
+
+
+
+2.1. Sicherstellung der Kommunikation
+
+Bevor Sie mit Ihrem Gespräch mit den Besuchern starten, vergewissern Sie
+sich, dass die Kommunikation zwischen ihnen auch klappen wird. Es kann
+sein, dass sich sehbeeinträchtigte oder hörbeeinträchtigte Menschen unter
+den Besuchern befinden. Diese sind nicht immer gleich auf den ersten
+Blick auszumachen. Doch diese Menschen haben aufgrund ihres Handicaps
+besondere Einschränkungen und Bedürfnisse im Umgang miteinander und in
+der Kommunikation. Konkretes hierzu erfahren Sie in Kapitel 3.
+
+
+
+2.2. Interessegeleitetes Vorgehen
+
+Die meisten Menschen kommen mit einem konkreten Anliegen in Ihren
+Standort. Wenn dies aber einmal nicht der Fall sein sollte, kann die Frage nach
+speziellen Wünschen, Interessen oder Hobbies ein guter Einstieg sein. Denn
+es lernt sich leichter von einem selbst gewählten Thema aus. So entsteht auch
+gleich eine angenehme Atmosphäre.
+
+
+
+
+                                                                                  5
+2.3. Praxis vor Theorie
+
+Lassen Sie Internetneulinge die Computer- und Internetnutzung selbst
+ausprobieren und fassen Sie theoretische Erläuterungen möglichst kurz.Alle
+Teilnehmenden sollten nach Möglichkeit ihre eigenen Geräte mitbringen und
+jede Eingabe selbst ausführen. Damit das Erlernte angewendet und vertieft
+werden kann, sollten Sie nicht nur theoretisch eine Anwendung erklären,
+sondern gleich die praktische Umsetzung mit erproben.
+
+
+
+2.4. Fremde Begriffe erläutern und begrenzen
+
+Technische Fachbegriffe, Abkürzungen oder englische Termini sind für
+Anfängerinnen und Anfänger zunächst eher verwirrend als erklärend. Erläutern
+Sie technische Begriffe verständlich und alltagsnah. In der Handreichung zur
+Digitalen Grundbildung „Fachbegriffe rund um den Computer einfach erklärt“
+(herunterzuladen unter: https://grundbildung.trier.de/File/neumann-design-
+knotenpunkte-pc-glossar-web-160ppi-221208.pdf) vom Projekt Knotenpunkte
+für Grundbildung Transfer finden Sie gute Beispiele zur Erklärung.
+
+
+
+2.5. Wiederholung und Ergebnissicherung
+
+Üben, üben, üben – so lautet die Devise. Wiederholen Sie Lernschritte und
+Übungen. Falls vorhanden, geben Sie den Lernenden entsprechende Materialien
+an die Hand (am besten als gedrucktes Exemplar). So können sie die einzelnen
+Schritte und Begriffe Zuhause wiederholen. ABER: Rechnen Sie damit, dass
+alleine nicht geübt wird und auch lange Pausen entstehen. Daher sollten Sie
+bereit sein, immer wieder von vorne anzufangen.
+
+
+
+
+                                                                               6
+2.6. Weniger ist mehr
+
+Als erfahrene Internetnutzerin oder erfahrener Internetnutzer möchten Sie
+vielleicht möglichst viele Ihrer Kenntnisse weitergeben. Tun Sie das – aber
+wohldosiert. Schaffen Sie kleine Lerneinheiten und konzentrieren Sie sich auf
+ein Thema pro Treffen. Gib es mehrere Wege für eine Anwendung, entscheiden
+Sie sich für einen. Führen Sie andere Möglichkeiten erst dann ein, wenn die erste
+sicher erlernt ist.
+
+Weniger ist mehr gilt auch für die Zeit: Die Dauer eines Treffens sollte
+nicht zu lang gewählt werden. Erfragen Sie nach etwa einer Stunde, ob die
+Aufnahmebereitschaft und Konzentrationsfähigkeit für mehr ausreichen. Für
+Menschen mit Hörbeeinträchtigung sollten bei längeren Veranstaltungen
+Hörpausen eingeplant werden (siehe Punkt 3).
+
+
+
+
+    Generell gilt:
+
+    Geben Sie Zeit und Raum für Gespräche. Bei Neulingen können Ängste
+    bei der Handhabung des Computers bestehen. Durch einen Tastendruck
+    oder einen Mausklick etwas zu löschen oder zu zerstören ist die
+    häufigste Sorge von Anfängerinnen und Anfängern. Mit zunehmender
+    Erfahrung wächst die Sicherheit im Umgang mit der Technik. Zeigen
+    Sie die Chancen Ihres Themas auf. Nehmen Sie Bedenken ernst. Bei
+    bekannten (Sicherheits-)Risiken beschränken Sie sich auf die Aspekte,
+    die den konkreten Themenbereich betreffen.
+
+
+
+
+                                                                                7
+3. Der richtige Umgang macht´s
+Neben den allgemeinen Orientierungspunkten zur digitalen Bildung von
+älteren Menschen, gibt es noch ein paar spezielle Hinweise, wie Menschen
+mit Hörbeeinträchtigungen oder Sehbehinderungen in den regulären
+Beratungsalltag integriert werden können.
+
+
+
+3.1. Menschen mit Hörbeeinträchtigung
+
+Eine Hörbeeinträchtigung ist nicht immer auf den ersten Blick erkenn- oder
+sichtbar. Aber es gibt ein paar Hinweise, die drauf schließen lassen, dass ihr
+Gegenüber wahrscheinlich eine Hörminderung hat. Zum Beispiel wenn er
+oder sie beim Gespräch konzentriert auf Ihre Lippen schaut, die Person häufig
+nachfragt, was gesagt wurde oder vielleicht auch gar nicht auf ein Ansprechen
+von der Seite oder von hinten reagiert.
+
+Gerade in Beratungs- oder Schulungssituationen, in denen viel gesprochen wird,
+ist gute Kommunikation entscheidend für den Lehr- und Lernerfolg. Damit eine
+gute Kommunikation zwischen Menschen mit und ohne Hörbeeinträchtigung
+zustande kommt, möchten wir Ihnen im Folgenden ein paar Tipps an die Hand
+geben.
+
+1. Achten Sie auf eine freie, gut sichtbare Mundpartie und sprechen Sie den
+   Menschen zugewandt. Menschen mit Hörbeeinträchtigungen können hören,
+   aber eben nicht so gut. Deswegen lesen viele gleichzeitig von den Lippen ab.
+   Wenn Sie sich während des Gesprächs umdrehen, weil Sie beispielsweise auf
+   etwas Bestimmtes hinweisen möchten oder jemanden in der anderen Ecke
+   des Raumes mit in das Gespräch integrieren möchten, ist dies nicht möglich
+   und Informationen können verloren gehen.
+
+
+                                                                                 8
+2. Sprechen Sie deutlicher – nicht lauter. Bei Menschen, die Hörgeräte
+   tragen, ist die Lautstärke der Geräte in der Regel bereits für die Person
+   passend eingestellt. Sie brauchen nicht überlaut zu sprechen. Die normale
+   Gesprächslautstärke ist absolut ausreichend. Sie können das Hörverstehen
+   Ihres Gegenübers aber zusätzlich positiv beeinflussen, wenn Sie ruhig,
+   langsam und deutlich sprechen. Zusätzlich können Sie das Gesagte durch
+   Gesten, Mimik und Körpersprache unterstützen.
+
+3. Sprechen Sie die Menschen nicht von hinten an. Auch hier verschwindet
+   die wichtige Möglichkeit, von den Lippen abzulesen. Abgesehen davon ist
+   das gesprochene Wort in Sprechrichtung nach vorne zur adressierten Person
+   sehr viel klarer und besser zu verstehen, als zur Seite oder mit abgewandtem
+   Kopf.
+
+4. Machen Sie Hörpausen. Es erfordert sehr viel Konzentration zuzuhören und
+   zu verstehen, wenn das Gehör nicht so funktioniert, wie es bei Menschen
+   ohne Hörbeeinträchtigung der Fall ist. Als Faustregel gilt: Machen Sie nach
+   spätestens 90, am besten nach 60 Minuten, eine 15-minütige Hörpause. Eine
+   Hörpause ist nicht gleich einer Mittags- oder Kaffeepause, sondern es geht
+   tatsächlich darum, das Gehör zu entspannen. Musik, interne Gespräche oder
+   ähnliches sollten während dieser Zeit nicht stattfinden.
+
+Mehr Tipps und Hinweise im Umgang miteinander für schwerhörige und
+gut hörende Menschen finden Sie im DSB-Ratgeber 2 des Deutschen
+Schwerhörigenbundes. Sie können den Ratgeber hier herunterladen:
+https://www.schwerhoerigen-netz.de/fileadmin/user_upload/dsb/Dokumente/
+Information/Service/Ratgeber/Ratgeber2_Tipps_fuer_den_Umgang_
+miteinander.pdf
+
+
+
+
+                                                                               9
+3.2. Menschen mit Sehbeeinträchtigung
+
+Auch eine Sehbeeinträchtigung ist nicht immer leicht erkennbar. Bewegt sich
+Ihr Gegenüber unsicher, bleibt abwartend, geht nicht auf Sie zu, reagiert nicht
+auf Blickkontakt, greift daneben, bewegt den Kopf viel hin und her, kneift die
+Augen zusammen oder hält Dinge dicht vor das Auge? Das könnte an Problemen
+mit dem Sehen liegen. Auch hierzu sollen spezielle Hinweise gegeben werden,
+um die Beratung vor Ort für alle zu einem Erfolgserlebnis zu machen:
+
+1. Die Menschen an die Hand nehmen? Nur im übertragenen Sinn.
+   Sehbeeinträchtigte Menschen brauchen manchmal mehr Zeit als andere zur
+   Orientierung, zum Lesen oder für Notizen sowie besondere Unterstützung.
+   Ungefragter Körperkontakt ist in der Regel nicht erwünscht. Nutzen Sie die
+   Erfahrungen Ihres Gegenübers, um sinnvolle Hilfen zu finden. Bitte nehmen
+   Sie es nicht persönlich, wenn Hilfsangebote nicht angenommen werden.
+
+2. Sprechen Sie mehr. Kommunizieren Sie klar und verständlich.
+   Sehbeeinträchtigte Menschen nehmen nonverbale Zeichen wie
+   Körpersprache, Gestik und Mimik oft nur teilweise wahr. Setzen sie also
+   auf verbale statt auf nonverbale Kommunikation. Sie selbst und andere
+   Beteiligte stellen sich am besten bei jeder Begegnung mit ihren Namen
+   vor. Sprechen Sie sehbeeinträchtigte Menschen immer mit ihrem Namen
+   an, sofern er Ihnen bekannt ist. Geben Sie gesprochene Antworten statt zu
+   nicken, den Kopf zu schütteln oder auf etwas zu zeigen. Kommentieren Sie,
+   was gerade geschieht.
+
+3. Formen Sie ein Bild im Kopf. Beschreiben Sie Situationen sprachlich und
+   möglichst genau, zum Beispiel: „Das Merkblatt liegt direkt vor Ihnen auf dem
+   Tisch.“ Wenn Sie etwas für alle Anwesenden präsentieren oder anschreiben,
+   sprechen Sie mit. Werden Grafiken oder Bilder verwendet, achten Sie auf gut
+   erkennbare Motive und eindeutige Bildaussagen, ruhige Hintergründe und
+   deutliche Kontraste. Und beschreiben Sie jedes Bild.
+
+                                                                                10
+4. Gestalten Sie Materialien möglichst barrierearm. Schriftliche
+   Materialien oder Präsentationen können je nach Bedarf als Papier in
+   Großdruck oder elektronisch zur Verfügung gestellt werden, gern auch
+   vorab zur Vorbereitung. Formulieren Sie in jedem Fall möglichst kurz,
+   präzise und verständlich. Achten Sie auf gute Lesbarkeit. Das heißt,
+   achten Sie auf ausreichende Kontraste, eine gut lesbare Schriftart und
+   -größe, ausreichenden Zeichen- und Zeilenabstand, eine gut strukturierte
+   Seitengestaltung und eine klare Gliederung des Dokumentes (z. B.
+   Überschriften hervorheben, gut erkennbare Piktogramme verwenden,
+   Abstand zwischen Texten und Bildern lassen, Text nicht auf Bilder setzen).
+   Wer sich dazu näher informieren oder eigene Texte einmal überprüfen
+   möchte, findet hier die entsprechenden Informationen: www.leserlich.info
+
+   Wenn Sie Bilder verwenden, denken Sie an mündliche Beschreibungen,
+   Bildunterschriften und in elektronischen Dokumenten oder Präsentationen
+   auch an Alternativtexte, also kurze, aussagekräftige Bildbeschreibungen.
+   Beim DVBS (Deutscher Verein der Blinden und Sehbehinderten in Studium
+   und Beruf e. V. finden Sie Leitfäden und Checklisten zur Erstellung
+   barrierefreier Dokumente und Präsentationen: (https://leitfaden-
+   barrierefrei.dvbs-online.de/).
+
+   Das Kompetenzzentrum Selbstbestimmt Leben - Für Menschen mit
+   Sinnesbehinderung hat einen Leitfaden zur Erstellung von Alternativtexten
+   entwickelt: https://ksl-msi-nrw.de/de/node/3217.
+
+5. Spezialwissen gefragt? Oft wird es schon helfen, eine Lupe zu Hilfe
+   zu nehmen oder spezielle Einstellungen je nach Gerät auszuwählen wie
+   Vergrößerungsmodus, Kontrastverstärkung oder Sprachein- und ausgabe.
+
+   Spätestens, wenn eine Sehbeeinträchtigung die Nutzung spezieller
+   Hilfsmittel wie Vergrößerungssoftware oder Screenreader notwendig
+   macht, brauchen Sie in Ihrer Lotsen-Funktion vielleicht selbst
+
+                                                                                11
+Unterstützung. Dann können Sie sich immer an die Blickpunkt Auge-
+Beratung oder die Hilfsmittelberatenden des DBSV (Deutscher Blinden- und
+Sehbehindertenverband e. V.) wenden, die selbst weiterhelfen und spezielle
+Schulungsangebote oder Gruppen zum Austausch vermitteln können.
+Kontaktdaten finden Sie unter https://blickpunkt-auge.de/regionen.html und
+https://www.dbsv.org/hilfsmittelberater.html).
+
+Eine weitere Ansprechpartnerin ist die Mediengemeinschaft für blinde, seh-
+und lesebehinderte Menschen e. V. (Medibus): https://www.medibus.info/.
+
+
+
+
+                                                                             12
+4. Lernsettings – die häufigsten
+   Formate im Überblick
+Ältere Menschen wissen, was sie interessiert und was sie lernen möchten.
+Deshalb ist es wichtig, dass Bildungsangebote diese Interessen berücksichtigen.
+Dies kann sich in unterschiedlichen Formaten und Angeboten widerspiegeln.
+Alle haben Vor- und Nachteile. Welches Sie nutzen, ist Ihnen und Ihren
+Engagierten überlassen.
+
+Zu den klassisch-formellen Lernsettings gehören bekannte Formate wie Kurse,
+Seminare oder Trainings. Diese Bildungsformate haben eine fest definierte
+Laufzeit, z. B. 10 Kurseinheiten. Es gibt meist einen haupt- oder ehrenamtlichen
+Lehrenden, der den Teilnehmenden Wissen vermittelt. In halbformellen
+Lernsettings wie Stammtischen, Tutorien, Gruppen- oder Einzel-Coachings
+verstehen sich die Unterstützerpersonen als Lernbegleitung. Problemlösungen
+werden von den Teilnehmenden selbstständig unter Anleitung erarbeitet.
+Halbformelle Lernsettings eignen sich gut als Ergänzungsangebote zu
+klassischen Kursen. Bei offenen Lernsettings wie Lerncafés, Frage- oder
+Sprechstunden handelt es sich um leicht zugängliche, niedrigschwellige
+Angebote für die persönliche Beratung und Betreuung.
+
+Die Stiftung Digitale Chancen hat in Ihrem „Leitfaden – Digitale Kompetenzen
+für ältere Menschen“ unterschiedliche Lernformate genauer beleuchtet. Den
+vollständigen Ordner können Sie unter https://www.digitale-chancen.de/
+materialien/detail/leitfaden-digitale-kompetenzen-fuer-aeltere-menschen
+kostenfrei herunterladen. Einige ausgewählte Formate möchten wir Ihnen
+dennoch im Folgenden präsentieren. Bei der Auswahl achten wir darauf, dass
+die Formate sich für die Zielgruppen besonders eignen.
+
+
+
+
+                                                                               13
+4.1. Gruppenkurse/Trainings
+
+Beschreibung und Lernziele:
+• Kenntnisse und Fertigkeiten zu vorher festgelegten Themen und Anwendungen
+  erwerben.
+• Alltagsrelevanten Nutzen der Anwendungen aufzeigen.
+
+
+Ablauf:
+1. Vorstellungsrunde in der ersten Stunde zum Kennenlernen
+2. Trainer gibt einen Überblick zu den Kursinhalten und Lernzielen,
+   ggf. wird ein Teil der Kursinhalte nach Abfrage von Teilnehmerpräferenzen
+   gemeinsam festgelegt
+3. Wechsel von passiven und aktiven Lernmethoden
+4. Fragerunde zum Ende jeder Stunde zur Wiederholung bzw. Sammlung
+   offener Fragen
+5. Lerntempo an die Teilnehmer anpassen
+
+Tipp:
+Man kann nach Absprache mit den Teilnehmenden Inhalte, die auf größeres
+Interesse stoßen, länger behandeln und andere dafür weglassen.
+
+Eignung für Zielgruppe:
+Im Idealfall ist die Gruppe möglichst homogen in Bezug auf Lernerfahrung und
+Vorkenntnisse, sonst geht es einigen zu langsam, andere wiederum fühlen
+sich überfordert. Um Menschen mit Sinneseinschränkungen bestmöglich
+zu integrieren, ist eine konsequente Moderation und ggf. Beschreibung
+von Situationen und Materialien wichtig. Durcheinander sprechen oder
+Nebengespräche sollten vermieden werden.Es kann außerdem hilfreich sein,
+wenn die Teilnehmenden vor ihrem Beitrag immer ihren Namen nennen.
+
+
+
+
+                                                                               14
+4.2. Coaching
+
+Beschreibung und Lernziele:
+• Problemlösungen selbst erarbeiten
+• individuelle Bedürfnisse der Lernenden werden adressiert
+• Selbstvertrauen in die eigene Problemlösungsfähigkeit des Lernenden stärken
+• Motivationsbarrieren abbauen
+
+Ablauf:
+1. erfahrener Coach gibt sein Wissen/seine Erfahrungen an unerfahrenere
+   Personen weiter
+2. auf die Sicherstellung der Kommunikation achten: Kann z.B. eine
+   hörbeeinträchtigte Person dem Gespräch akustisch folgen oder findet sich ein
+   sehbehinderter Mensch im Raum zurecht?
+3. Inhalte sollten im Vorfeld festgelegt werden
+4. am Anfang genug Zeit für gegenseitiges Kennenlernen und Vertrauensbildung
+   einplanen
+5. Coach begleitet die Lernenden bei der Erarbeitung eigener Lösungen
+
+Eignung für Zielgruppe:
+Der Coach kann bei diesem Format sehr individuell auf die Lernenden
+eingehen, daher eignet es sich besonders für Menschen mit besonderen
+Aufklärungsbedarfen, Personen mit wenig Lernerfahrung und geringem
+Selbstvertrauen, hochaltrige Personen mit niedriger formaler Bildung, ältere
+Frauen, da diese aufgrund geschlechtsspezifischer Techniksozialisation oft ein
+geringeres Selbstbewusstsein im Umgang mit Technik ausgebildet haben.
+
+
+
+
+                                                                                 15
+4.3. Offene Sprechstunde
+
+Beschreibung und Lernziele:
+• Beratung und Hilfe bei individuellen Anliegen
+• Hilfe zur Selbsthilfe, z. B. bei der Erschließung von geeigneten
+  Informationsquellen
+• Beratung bei der Auswahl geeigneter Lernangebote
+
+Ablauf:
+1. freundliche offene Atmosphäre bei Begrüßung
+2. Sicherstellung der Kommunikation
+3. Darstellung des Anliegens mit anschließender Kontrolle, ob alles richtig
+   verstanden wurde Klärung von Unsicherheiten durch Nachfragen im Gespräch
+4. Je nach Art des Anliegens: entweder gemeinsame Erarbeitung der Lösung
+   oder Weitergabe von Hinweisen auf Anleitungen zur Problemlösung,
+   Informationen zum Thema u. a.
+
+Achtung:
+Nicht alle Anliegen können an Ort und Stelle gelöst werden! Falls das Anliegen
+nicht zufriedenstellend bearbeitet werden konnte, sollten nächste Schritte und
+ggf. ein weiterer Termin vereinbart werden.
+
+Eignung für Zielgruppe:
+Die Sprechstunde ist geeignet für Personen, die bereits ein Training absolviert
+haben und im Alltag Problemen begegnen. Sie kann ergänzend zu Trainings
+angeboten werden. Anfänger, die in der Sprechstunde Hilfe suchen, können
+auf geeignete Lernangebote verwiesen werden. Für Menschen mit Seh- oder
+Hörbeeinträchtigung ist das Format insofern gut geeignet, als dass individuelle
+Anfragen gelöst werden können, die sich beispielsweise auf jeweilige
+Einschränkung beziehen. Bei Anfragen zu Hilfsmitteln kann direkt auf die
+verschiedenen Beratungsangebote der Fachverbände hingewiesen werden.
+
+
+
+                                                                              16
+4.4. Digitale Formate
+
+Sich online austauschen, Videokonferenzen oder digitale Meetings sind
+mittlerweile im Alltag fest verankert. Aber nicht immer sind alle Programme für
+alle Menschen gleichermaßen geeignet.
+
+
+
+4.5. Videokonferenzen für Menschen
+     mit Sehbeeinträchtigung
+
+Menschen mit Sehbeeinträchtigung können durchaus an Videokonferenzen
+teilnehmen. Ein paar Dinge gilt es aber zu beachten:
+
+
+
+In der Gesprächssituation
+
+Sehbeeinträchtigte Menschen können zwar hören, was gesagt wird, aber
+sie können häufig nicht erkennen, wer gerade spricht. Stimmen können
+nicht automatisch einer Person zugeordnet werden. Daher sollten Sie in der
+Moderation darauf achten, dass den sprechenden Personen jeweils mit Namen
+aufrufen bzw. das Wort erteilen.
+
+
+
+Bei Nutzung von Präsentation
+
+Häufig werden Präsentationen bei Videokonferenzen genutzt und für alle
+Teilnehmenden über den Bildschirm geteilt. Vermitteln Sie die Gewissheit,
+dass alles Geschriebene auch mündlich weitergegeben wird. Wenn in diesen
+Folien, Bilder oder Diagramme enthalten sind, sollten Sie sie erläutern bzw.
+Textelemente vorlesen.
+
+
+
+
+                                                                               17
+Bei Nutzung der Chatfunktion
+
+Die Chatfunktion sollte nach Möglichkeit nicht parallel zum Vortrag zur
+Übermittlung wichtiger Inhalte genutzt werden. Falls dort doch wichtige Inhalte
+mitgeteilt werden, laden Sie ihn am Ende der Videokonferenz herunter und
+schicken Sie die Datei Ihren sehbehinderten Teilnehmenden.
+
+Es gibt viele Plattformen, die Sie für Videokonferenzen nutzen können. Alle haben
+Vor- und Nachteile. Gegebenenfalls testen Sie verschiedene kostenfrei Versionen
+und entscheiden dann, womit die Teilnehmenden am besten zurechtgekommen
+sind.Der Blinden- und Sehbehindertenverband hat eine Checkliste erstellt,
+anhand derer Sie prüfen können, welche Konferenzplattform die richtige für
+Sie ist. Diese finden Sie hier: https://www.dbsv.org/aktuell/barrierencheck-fuer-
+konferenzplattformen.html
+
+
+
+4.6. Videokonferenzen für Menschen
+     mit Hörbeeinträchtigung
+
+Mit ein paar Anpassungen kann jeder dazu beitragen, eine Videokonferenz für
+Menschen mit Hörbeeinträchtigungen zu optimieren.
+
+
+
+Vor der Konferenz
+
+Um möglichst viele störende Geräusche aus der Wohnung auszublenden, eignet
+sich ein Raum, bei dem man die Türe schließen kann. Setzen Sie sich nicht vor
+einem Fenster, weil Sie damit „im Schatten“ sitzen und dunkel erscheinen.
+Dann wäre nur der Umriss des Kopfes sichtbar, mehr nicht. Besser ist, wenn das
+Licht von der Seite oder schräg von vorne kommt, weil dann das Gesicht besser
+zu erkennen ist. Geben Sie die Hinweise auch an die übrigen Teilnehmenden
+weiter. Die in den Computern eingebauten Lautsprecher sind oftmals zu leise
+
+
+                                                                              18
+und strahlen häufig nach unten und damit in die falsche Richtung. Mit externen
+Mikrofonen kann die Tonqualität verbessert werden.
+
+Wenn Sie die Möglichkeit haben: Klären Sie ab, ob der hörbeeinträchtigte
+Teilnehmende zusätzlich eine Untertitelung bzw. eine Schriftdolmetschung für die
+Konferenz benötigt.
+
+
+
+
+    Was macht eigentlich ein Schriftdolmetscher?
+
+    Schriftdolmetscher schreiben das gesprochene Wort, z.B. während Vor-
+    trägen oder Reden, entweder wortwörtlich oder in zusammengefasster
+    Form möglichst schnell mit. So können hörgeschädigte Menschen die
+    präsentierten Inhalte mitlesen und dem Geschehen besser folgen.
+    Zertifizierte Ansprechpartner finden Sie beispielsweise hier:
+    https://www.schwerhoerigen-netz.de/schriftdolmetscher/?L=0
+
+
+
+
+Während der Konferenz
+
+Egal ob Sie die im Laptop eingebaute Kamera verwenden oder ein externes Gerät,
+achten Sie darauf, dass Sie gut sichtbar sind. Um besser von den Lippen ablesen
+zu können, ist eine Aufnahme frontal von vorne hilfreich. Wenn Sie ein Headset
+verwenden, achten Sie darauf, dass das Mikrofon die Mundpartie nicht verdeckt.
+Grundsätzlich sollte immer nur eine Person sprechen, die restlichen
+Teilnehmerinnen und Teilnehmer sollten ihre Mikrofone stummschalten. Das
+schützt auch vor unliebsamen Nebengeräuschen und Rückkopplungen. Wenn
+jemand etwas sagen möchte, bieten die meisten Videokonferenz-Plattformen an,
+sich mithilfe der Funktion „Hand heben“ bemerkbar zu machen.
+
+
+                                                                             19
+Bitten Sie alle Teilnehmenden, ihre Kamera einzuschalten und achten Sie darauf,
+dass die Gesichter für das Ablesen von den Lippen gut sichtbar sind. Wer spricht,
+sollte in die Kamera zu schauen. Bei längere Sprechanteilen, beispielsweise bei
+einem Vortrag, können Sie den Redner je nach Programm auch anpinnen. Dann
+ist diese nur Person zu sehen.
+
+
+
+
+                                                                               20
+5. Grundsätzliche Überlegungen für
+   die Vorbereitung und Durchführung
+   von Wissensangeboten
+Sie wollen in Ihrem Standort auch Menschen mit besonderen
+Aufklärungsbedarfen darin unterstützen, einen leichten Einstieg in die digitale
+Welt zu finden. Digital-Kompass Standorte, Senioren-Internet-Initiativen,
+Erfahrungsorte und viele andere Anlaufstellen bieten die für viele Menschen
+so wichtige Unterstützung und Beratung hinsichtlich digitaler Medien und
+Anwendungen. Sie bieten vielfältige Informations- und Dialogangebote für
+mehr Lebensqualität, Selbstbestimmung und Partizipation im Alter durch
+Digitalisierung. Damit Ihre Veranstaltung zu einem Erfolg wird, ist es wichtig, sich
+im Vorfeld einige Gedanken zu machen.
+
+
+
+Konzept – Ausschreibung – Vorbereitung
+
+• Formulieren Sie das Thema der Veranstaltung klar und deutlich, z. B.:
+  „Ein eigenes Facebook-Profil erstellen“.
+• Benennen Sie das benötigte Vorwissen für die Veranstaltung, z. B.:
+  „Für Anfänger mit Grundkenntnissen: Der Kurs eignet sich für Menschen mit
+  einer gültigen E-Mail-Adresse, die eigenständig mit dem Thema arbeiten /
+  lernen möchten und dabei Unterstützung benötigen. Die Teilnehmenden
+  sollten über Grundkenntnisse im Umgang mit dem Internet verfügen.“
+• Geben Sie genau an, welche Geräte und Materialien eingesetzt werden,
+  welche vorhanden sind, welche mitgebracht werden müssen.
+• Kümmern Sie sich um die Öffentlichkeitsarbeit, z. B.: Ansprechpersonen
+  bei den lokalen Medien wie Zeitung, Wochenblättchen, Gemeindebrief
+  kontaktieren.
+
+
+
+
+                                                                                 21
+Zeitplanung
+
+• Nach 60 Minuten, spätestens 90 Minuten, sollte eine Pause von mindestens
+  15 Minuten eingelegt werden. (Dies sind Erfahrungswerte derjenigen, die Kurse
+  für Seniorinnen und Senioren geben.)
+• Im Zweifel lohnt sich auch immer eine konkrete Frage, ob eine Pause benötigt
+  wird.
+
+
+
+Organisatorisches
+
+• Corona hat uns gelehrt: es ist nicht alles planbar! Richten Sie nach
+  Rücksprache mit den Teilnehmenden einen Verteiler (z. B. E-Mail oder
+  Messenger) ein, über den Sie kurzfristige Änderungen mitteilen können.
+  Auch Materialien oder Links können so versendet werden.
+
+
+
+Vor Ort
+
+• Wenn Sie zum ersten Mal eine Veranstaltung planen oder nach neuen Räumen
+  suchen, achten Sie auf ausreichend Platz, barrierefreie Zugänge, Erreichbarkeit
+  mit öffentlichen Verkehrsmitteln.
+• Damit Lernen für alle möglich ist, ist WLAN in den Räumen erforderlich.
+  Die weitere (technische) Ausstattung wie Laptop, Beamer, Leinwand,
+  Verlängerungskabel, Flipchart etc. ist individuell und optional ganz abhängig
+  davon, welches Format Sie nutzen.
+
+
+
+
+                                                                              22
+6. Zum Projekt „Digital-Kompass“
+Sich online mit Familie, Freunden und Bekannten austauschen, über aktuelle
+Themen informieren oder an gesellschaftlichen Diskussionen oder Prozessen
+beteiligen: Es ist inzwischen klar, dass gesellschaftliche Teilhabe digitale
+Kompetenzen voraussetzt. Dies gilt insbesondere für Menschen, die mit Sinnes-
+oder Mobilitätsbeeinträchtigungen leben: Eine sichere und souveräne Nutzung
+digitaler Medien und Geräte kann für eine selbständige und selbstbestimmte
+Gestaltung des Lebensalltags sorgen.
+
+Um die vielfältigen Chancen der Digitalisierung für Menschen mit
+Beeinträchtigungen verständlich und erlebbar zu machen, bietet der Digital-
+Kompass vielfältige Angebote.
+
+Der Digital-Kompass richtet sich an Internetlotsen, Trainerinnen und Trainer,
+Helferinnen und Helfer sowie Engagierte, die in der Seniorenarbeit aktiv
+sind. Ein Schwerpunkt liegt dabei auf der Vermittlung von Kompetenzen zur
+sicheren Nutzung digitaler Medien. Dies geschieht zum einen durch eine
+Beratung durch qualifizierte Engagierte vor Ort. Denn wenn Sehen und Hören
+schwieriger werden, kann die Bedienung technischer Geräte, von Webseiten
+oder Apps mühsam werden. Dabei kann die Digitalisierung für Menschen
+mit Einschränkungen ein Weg zu mehr Teilhabe bedeuten. In qualifizierten
+Treffpunkten können Menschen mit Sehbehinderung oder Hörbeeinträchtigung
+digitales Wissen in Formaten wie 1:1 Beratungen, Kursen oder gemeinsamen
+Austauschrunden erlernen oder vertiefen. Die Wissensvermittelnden vor Ort
+werden gezielt für die besonderen Bedürfnisse der Zielgruppen sensibilisiert und
+qualifiziert.
+
+
+
+
+                                                                              23
+Zum anderen bietet der Digital-Kompass sogenannte Lern-Tandems an. Das
+Konzept setzt darauf, generationenübergreifendes Lernen digital in die eigenen
+vier Wände zu verlagern. Hierbei werden die Lern-Tandems in der Regel durch
+Zweierteams aus einem Studierenden und einer digital unerfahrenen Person
+gebildet. Der Austausch erfolgt nach individuellen Vorlieben, z. B. via Telefon,
+Chat, E-Mail oder Videoanruf. Das Angebot richtet sich an Menschen, die in Ihrer
+Mobilität eingeschränkt sind.
+
+
+
+
+                                                                              24
+7. Impressum
+
+Herausgeber
+
+Digital-Kompass
+c/o BAGSO Service Gesellschaft
+Hans-Böckler-Str. 3
+53225 Bonn
+info@digital-kompass.de
+www.digital-kompass.de
+
+Verantwortlich: Dr. Barbara Keck
+Redaktion: Katharina Braun, Angelika Ostrowski, Gudrun Brendel
+Kapitel 5 basiert u.a. auf: Stiftung Digitale Chancen/Telefónica Deutschland
+Holding AG: Leitfaden Digitale Kompetenzen für ältere Menschen (CC BY-SA 4.0)
+
+Visuelle Gestaltung und barrierefreies PDF:
+Nadine Valeska Kreuder, www.nadine-kreuder.com
+
+Stand: 02/2023
+
+
+
+
+                                                                           25
+Kontakt
+Digital-Kompass
+Katharina Braun
+Ansprechpartnerin für Lehr- und Lernmaterialien
+BAGSO Service Gesellschaft
+E-Mail: info@digital-kompass.de
+Internet: www.digital-kompass.de
+
+
+
+Verbundprojektpartner
+
+
+
+
+Projektpartner
+
+
+
+
+                      Gemeinsam digitale Barrieren überwinden
+                                              www.digital-kompass.de
+                                                                   28
+

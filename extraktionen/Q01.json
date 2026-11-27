@@ -1,0 +1,27 @@
+{
+  "quelle": "Q01",
+  "erstellt_durch": "KI; Quellenabschnitte in dieser Sitzung gelesen",
+  "status": "fachlich-ungeprueft",
+  "belege": [
+    {"id": "B01", "seite": 18, "suchtext": "Offene Sprechstunde", "aussage": "Die Befragung erfasst persönliche Beratung und regelmäßige Übungsgruppen als Angebotsformate."},
+    {"id": "B02", "seite": 22, "suchtext": "n= 127 Teilnehmende", "aussage": "Die Darstellung erfasst wiederholte Teilnahmen. Die Basis dieser Abbildung sind 127 Teilnehmende."},
+    {"id": "B03", "seite": 69, "suchtext": "dauerhafte Supportmöglichkeiten", "aussage": "Der Bericht empfiehlt dauerhafte Unterstützung. Einstiegskompetenzen reichen für komplexe Anwendungen nicht immer aus."},
+    {"id": "B04", "seite": 2, "suchtext": "Online-Befragung", "aussage": "Die Untersuchung befragt Leitungskräfte, Helfende und Teilnehmende. Sie beschreibt Erfahrungen und Einschätzungen."}
+  ],
+  "entitaeten": [
+    {"id": "P01", "typ": "Projekt", "titel": "DigitalPakt Alter", "kurztext": "Förderprogramm für lokale Lernangebote zur digitalen Teilhabe älterer Menschen. Der betrachtete Bericht bezieht sich auf die ersten 150 Erfahrungsorte.", "belege": ["Q01:B04"]},
+    {"id": "M01", "typ": "Massnahme", "titel": "Individuelle Lernbegleitung", "kurztext": "Eine Person erhält Unterstützung zu eigenen digitalen Fragen.", "belege": ["Q01:B01"]},
+    {"id": "M02", "typ": "Massnahme", "titel": "Regelmäßige Übungsgruppe", "kurztext": "Mehrere Personen üben digitale Anwendungen mit Begleitung.", "belege": ["Q01:B01"]},
+    {"id": "Z01", "typ": "Zielgruppe", "titel": "Ältere Menschen", "kurztext": "Ältere Menschen, die digitale Angebote nutzen oder den Umgang damit lernen möchten.", "belege": ["Q01:B04"]},
+    {"id": "K01", "typ": "Kontext", "titel": "Dauerhafter Unterstützungsbedarf", "kurztext": "Ein Einstieg beendet den Bedarf an Unterstützung nicht zwingend.", "belege": ["Q01:B03"]},
+    {"id": "E01", "typ": "Erkenntnis", "titel": "Einstieg braucht weitere Unterstützung", "kurztext": "Der Bericht leitet aus wiederholter Nutzung einen längerfristigen Unterstützungsbedarf ab.", "belege": ["Q01:B02", "Q01:B03"], "aussageart": "empfehlung", "beobachtung": "In der Befragung wurden Sprechstunden und Kurse oft mehrfach besucht.", "interpretation": "Wiederholte Nutzung kann einen Bedarf an fortlaufender Begleitung anzeigen.", "uebertragbarkeit": "Nachfolgeprojekte sollten prüfen, wie sie weitere Rückfragen nach einem Einstieg auffangen.", "grenzen": "Die Befragung belegt keine kausale Wirkung dauerhafter Beratung. Die Stichprobe einer einzelnen Abbildung darf nicht auf alle Berichtsteile übertragen werden.", "offene_frage": "Wie viel Begleitung brauchen verschiedene Gruppen nach dem ersten Angebot?"}
+  ],
+  "beziehungen": [
+    {"von": "P01", "relation": "bietet", "nach": "M01", "belege": ["Q01:B01"]},
+    {"von": "P01", "relation": "bietet", "nach": "M02", "belege": ["Q01:B01"]},
+    {"von": "P01", "relation": "richtet_sich_an", "nach": "Z01", "belege": ["Q01:B04"]},
+    {"von": "E01", "relation": "aus_projekt", "nach": "P01", "belege": ["Q01:B04"]},
+    {"von": "E01", "relation": "betrifft_massnahme", "nach": "M01", "belege": ["Q01:B02"]},
+    {"von": "E01", "relation": "gilt_im_kontext", "nach": "K01", "belege": ["Q01:B03"]}
+  ]
+}

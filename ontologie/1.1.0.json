@@ -1,0 +1,152 @@
+{
+  "version": "1.1.0",
+  "status": "demo-modell-fachlich-ungeprueft",
+  "typen": {
+    "Projekt": "Ein benanntes Vorhaben mit einem Ziel und einem Umsetzungskontext.",
+    "Massnahme": "Ein beschriebenes Vorgehen. Mehrere Projekte können dieselbe Maßnahme nutzen.",
+    "Zielgruppe": "Eine Gruppe, an die sich ein Angebot richtet.",
+    "Kontext": "Eine Bedingung, die für die Einordnung und Übertragung einer Erkenntnis wichtig ist.",
+    "Erkenntnis": "Eine belegte Beobachtung oder Empfehlung mit getrennter Interpretation und begrenzter Übertragbarkeit.",
+    "Quelle": "Ein gesichertes Originaldokument mit Herkunft und Prüfsumme.",
+    "Barriere": "Ein konkretes Hindernis beim Zugang zu einem Angebot. Eine Barriere entsteht im Zusammenspiel von Angebot und Bedarf; sie ist keine pauschale Eigenschaft einer Person."
+  },
+  "relationen": {
+    "bietet": {
+      "von": [
+        "Projekt"
+      ],
+      "nach": [
+        "Massnahme"
+      ],
+      "bedeutung": "Das Projekt bietet diese Maßnahme an."
+    },
+    "richtet_sich_an": {
+      "von": [
+        "Projekt"
+      ],
+      "nach": [
+        "Zielgruppe"
+      ],
+      "bedeutung": "Das Projekt adressiert diese Gruppe."
+    },
+    "aus_projekt": {
+      "von": [
+        "Erkenntnis"
+      ],
+      "nach": [
+        "Projekt"
+      ],
+      "bedeutung": "Die Erkenntnis bezieht sich auf dieses Projekt."
+    },
+    "betrifft_massnahme": {
+      "von": [
+        "Erkenntnis"
+      ],
+      "nach": [
+        "Massnahme"
+      ],
+      "bedeutung": "Die Erkenntnis ordnet diese Maßnahme ein."
+    },
+    "gilt_im_kontext": {
+      "von": [
+        "Erkenntnis"
+      ],
+      "nach": [
+        "Kontext"
+      ],
+      "bedeutung": "Die Erkenntnis ist unter dieser Bedingung einzuordnen. Das ist keine allgemeine Gültigkeitsgarantie."
+    },
+    "widerspricht": {
+      "von": [
+        "Erkenntnis"
+      ],
+      "nach": [
+        "Erkenntnis"
+      ],
+      "bedeutung": "Zwei belegte Aussagen schließen sich bei vergleichbaren Bedingungen aus. Nicht für bloße Unterschiede verwenden."
+    },
+    "belegt_durch": {
+      "von": [
+        "Projekt",
+        "Massnahme",
+        "Zielgruppe",
+        "Kontext",
+        "Erkenntnis",
+        "Barriere"
+      ],
+      "nach": [
+        "Quelle"
+      ],
+      "bedeutung": "Die Quelle stützt die Aussage. Diese Beziehung wird aus den Belegen erzeugt."
+    },
+    "empfiehlt": {
+      "von": [
+        "Projekt"
+      ],
+      "nach": [
+        "Massnahme"
+      ],
+      "bedeutung": "Ein Dokument des Projekts empfiehlt diese Maßnahme. Das belegt noch keine Umsetzung."
+    },
+    "adressiert": {
+      "von": [
+        "Massnahme"
+      ],
+      "nach": [
+        "Barriere"
+      ],
+      "bedeutung": "Die Maßnahme soll diese Barriere verringern. Die Beziehung behauptet keine gemessene Wirkung."
+    },
+    "tritt_auf_in": {
+      "von": [
+        "Barriere"
+      ],
+      "nach": [
+        "Kontext"
+      ],
+      "bedeutung": "Die Barriere ist für diesen Nutzungskontext beschrieben."
+    },
+    "praezisiert": {
+      "von": [
+        "Erkenntnis"
+      ],
+      "nach": [
+        "Erkenntnis"
+      ],
+      "bedeutung": "Eine Erkenntnis ergänzt Bedingungen einer anderen Erkenntnis. Eine Deutung der KI wird ausdrücklich gekennzeichnet."
+    }
+  },
+  "pflichtfelder": [
+    "id",
+    "typ",
+    "titel",
+    "kurztext",
+    "belege"
+  ],
+  "erkenntnisfelder": [
+    "beobachtung",
+    "interpretation",
+    "uebertragbarkeit",
+    "grenzen",
+    "offene_frage",
+    "aussageart"
+  ],
+  "aussagearten": [
+    "beobachtung",
+    "empfehlung",
+    "hypothese"
+  ],
+  "statuswerte": [
+    "fachlich-ungeprueft",
+    "fachlich-geprueft",
+    "strittig"
+  ],
+  "pflichtrelationen": {
+    "Erkenntnis": [
+      "aus_projekt",
+      "betrifft_massnahme",
+      "gilt_im_kontext"
+    ]
+  },
+  "freigabe": "nur-demo"
+}

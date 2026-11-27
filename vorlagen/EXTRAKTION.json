@@ -1,0 +1,20 @@
+{
+  "quelle": "Q05",
+  "erstellt_durch": "KI; tatsächlichen Bearbeitungsschritt eintragen",
+  "status": "fachlich-ungeprueft",
+  "belege": [
+    {"id": "B01", "seite": 1, "suchtext": "Durch kurzen Originaltext ersetzen", "aussage": "Durch belegte Paraphrase ersetzen"}
+  ],
+  "entitaeten": [
+    {"id": "P04", "typ": "Projekt", "titel": "Projekttitel ersetzen", "kurztext": "Belegte Beschreibung einsetzen", "belege": ["Q05:B01"]},
+    {"id": "M07", "typ": "Massnahme", "titel": "Maßnahmentitel ersetzen", "kurztext": "Belegte Beschreibung einsetzen", "belege": ["Q05:B01"]},
+    {"id": "K06", "typ": "Kontext", "titel": "Kontexttitel ersetzen", "kurztext": "Belegte Bedingung einsetzen", "belege": ["Q05:B01"]},
+    {"id": "E06", "typ": "Erkenntnis", "titel": "Erkenntnistitel ersetzen", "kurztext": "Vorsichtige Zusammenfassung einsetzen", "belege": ["Q05:B01"], "aussageart": "beobachtung", "beobachtung": "Beobachtung aus der Quelle einsetzen", "interpretation": "Getrennte KI-Interpretation einsetzen", "uebertragbarkeit": "Bedingungen einsetzen", "grenzen": "Evidenzgrenzen einsetzen", "offene_frage": "Offene Frage einsetzen"}
+  ],
+  "beziehungen": [
+    {"von": "P04", "relation": "bietet", "nach": "M07", "belege": ["Q05:B01"]},
+    {"von": "E06", "relation": "aus_projekt", "nach": "P04", "belege": ["Q05:B01"]},
+    {"von": "E06", "relation": "betrifft_massnahme", "nach": "M07", "belege": ["Q05:B01"]},
+    {"von": "E06", "relation": "gilt_im_kontext", "nach": "K06", "belege": ["Q05:B01"]}
+  ]
+}

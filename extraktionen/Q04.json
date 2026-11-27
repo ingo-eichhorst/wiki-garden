@@ -1,0 +1,187 @@
+{
+  "quelle": "Q04",
+  "erstellt_durch": "KI; Leitfaden in dieser Sitzung gelesen; bewusst als Kandidat mit Modelllücke abgelegt",
+  "status": "fachlich-ungeprueft",
+  "belege": [
+    {
+      "id": "B01",
+      "seite": 17,
+      "suchtext": "alles Geschriebene auch mündlich",
+      "aussage": "Der Leitfaden empfiehlt, Texte und visuelle Inhalte in Videokonferenzen mündlich zugänglich zu machen."
+    },
+    {
+      "id": "B02",
+      "seite": 19,
+      "suchtext": "Untertitelung bzw. eine Schriftdolmetschung",
+      "aussage": "Der Leitfaden empfiehlt, den Bedarf an Untertitelung oder Schriftdolmetschung vor einer Videokonferenz zu klären."
+    }
+  ],
+  "entitaeten": [
+    {
+      "id": "P03",
+      "typ": "Projekt",
+      "titel": "Digital-Kompass",
+      "kurztext": "Angebot zur digitalen Teilhabe. Die Evaluation betrachtet die Projektphase 2022 bis 2025.",
+      "belege": [
+        "Q04:B01",
+        "Q04:B02"
+      ]
+    },
+    {
+      "id": "M05",
+      "typ": "Massnahme",
+      "titel": "Visuelle Inhalte mündlich erläutern",
+      "kurztext": "Die Moderation liest Texte vor und erklärt Bilder oder Diagramme.",
+      "belege": [
+        "Q04:B01"
+      ]
+    },
+    {
+      "id": "M06",
+      "typ": "Massnahme",
+      "titel": "Untertitelbedarf vorab klären",
+      "kurztext": "Die Organisation klärt vor der Konferenz den Bedarf an Untertiteln oder Schriftdolmetschung.",
+      "belege": [
+        "Q04:B02"
+      ]
+    },
+    {
+      "id": "H01",
+      "typ": "Barriere",
+      "titel": "Visuelle Inhalte sind nicht erkennbar",
+      "kurztext": "Eine rein visuelle Darstellung kann Inhalte für Menschen mit Sehbeeinträchtigung unzugänglich machen.",
+      "belege": [
+        "Q04:B01"
+      ]
+    },
+    {
+      "id": "H02",
+      "typ": "Barriere",
+      "titel": "Gesprochene Inhalte sind nicht verständlich",
+      "kurztext": "Gesprochene Inhalte können für Menschen mit Hörbeeinträchtigung unzugänglich sein.",
+      "belege": [
+        "Q04:B02"
+      ]
+    },
+    {
+      "id": "K05",
+      "typ": "Kontext",
+      "titel": "Videokonferenz mit sensorischen Zugangsbedarfen",
+      "kurztext": "Teilnehmende benötigen einen geeigneten Zugang zu visuellen oder gesprochenen Inhalten.",
+      "belege": [
+        "Q04:B01",
+        "Q04:B02"
+      ]
+    },
+    {
+      "id": "E05",
+      "typ": "Erkenntnis",
+      "titel": "Online-Angebote brauchen angepasste Zugänge",
+      "kurztext": "Ein vermiedener Anfahrtsweg beseitigt nicht automatisch andere Barrieren.",
+      "belege": [
+        "Q04:B01",
+        "Q04:B02"
+      ],
+      "aussageart": "empfehlung",
+      "beobachtung": "Der Leitfaden nennt Anpassungen für Videokonferenzen bei Seh- und Hörbeeinträchtigungen.",
+      "interpretation": "Die positive Erfahrung mit Online-Teilnahme aus E04 braucht zusätzliche Bedingungen. Die Aussagen widersprechen sich nicht.",
+      "uebertragbarkeit": "Vor einer Videokonferenz sollten Verantwortliche den konkreten Zugang zu Inhalten mit den Teilnehmenden klären.",
+      "grenzen": "Dies sind Empfehlungen aus einem Leitfaden. Die Quelle misst hier keine Wirkung der einzelnen Anpassungen. Eine Beeinträchtigung ist keine Eigenschaft aller älteren Menschen.",
+      "offene_frage": "Sind die geplanten Anpassungen für die konkreten Teilnehmenden geeignet?"
+    }
+  ],
+  "beziehungen": [
+    {
+      "von": "P03",
+      "relation": "empfiehlt",
+      "nach": "M05",
+      "belege": [
+        "Q04:B01"
+      ]
+    },
+    {
+      "von": "P03",
+      "relation": "empfiehlt",
+      "nach": "M06",
+      "belege": [
+        "Q04:B02"
+      ]
+    },
+    {
+      "von": "M05",
+      "relation": "adressiert",
+      "nach": "H01",
+      "belege": [
+        "Q04:B01"
+      ]
+    },
+    {
+      "von": "M06",
+      "relation": "adressiert",
+      "nach": "H02",
+      "belege": [
+        "Q04:B02"
+      ]
+    },
+    {
+      "von": "H01",
+      "relation": "tritt_auf_in",
+      "nach": "K05",
+      "belege": [
+        "Q04:B01"
+      ]
+    },
+    {
+      "von": "H02",
+      "relation": "tritt_auf_in",
+      "nach": "K05",
+      "belege": [
+        "Q04:B02"
+      ]
+    },
+    {
+      "von": "E05",
+      "relation": "aus_projekt",
+      "nach": "P03",
+      "belege": [
+        "Q04:B01"
+      ]
+    },
+    {
+      "von": "E05",
+      "relation": "betrifft_massnahme",
+      "nach": "M05",
+      "belege": [
+        "Q04:B01"
+      ]
+    },
+    {
+      "von": "E05",
+      "relation": "betrifft_massnahme",
+      "nach": "M06",
+      "belege": [
+        "Q04:B02"
+      ]
+    },
+    {
+      "von": "E05",
+      "relation": "gilt_im_kontext",
+      "nach": "K05",
+      "belege": [
+        "Q04:B01",
+        "Q04:B02"
+      ]
+    },
+    {
+      "von": "E05",
+      "relation": "praezisiert",
+      "nach": "E04",
+      "belege": [
+        "Q03:B04",
+        "Q04:B01",
+        "Q04:B02"
+      ],
+      "einordnung": "KI-Interpretation; fachlich ungeprüft"
+    }
+  ]
+}

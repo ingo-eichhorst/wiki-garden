@@ -1,0 +1,233 @@
+{
+  "quelle": "Q03",
+  "erstellt_durch": "KI; Evaluationsbericht in dieser Sitzung gelesen",
+  "status": "fachlich-ungeprueft",
+  "belege": [
+    {
+      "id": "B01",
+      "seite": 4,
+      "suchtext": "Zweier-Teams",
+      "aussage": "Lern-Tandems verbinden Studierende mit Menschen, die Unterstützung bei digitalen Anwendungen suchen."
+    },
+    {
+      "id": "B02",
+      "seite": 7,
+      "suchtext": "wertvolle Beziehungen",
+      "aussage": "Der Bericht nennt positive Rückmeldungen sowie Wünsche nach einer längeren Tandemphase."
+    },
+    {
+      "id": "B03",
+      "seite": 8,
+      "suchtext": "mehr Zeit und Aufwand",
+      "aussage": "Studierende berichteten von höherem Vorbereitungs- und Unterstützungsaufwand als erwartet."
+    },
+    {
+      "id": "B04",
+      "seite": 9,
+      "suchtext": "eingeschränkter Mobilität",
+      "aussage": "Das Online-Format erleichterte Befragten mit eingeschränkter Mobilität die Teilnahme."
+    },
+    {
+      "id": "B05",
+      "seite": 3,
+      "suchtext": "Jahren 2022 bis 2025",
+      "aussage": "Die Zusammenfassung nennt den betrachteten Projektzeitraum und SÖSTRA als Evaluationsinstitut."
+    }
+  ],
+  "entitaeten": [
+    {
+      "id": "P03",
+      "typ": "Projekt",
+      "titel": "Digital-Kompass",
+      "kurztext": "Angebot zur digitalen Teilhabe. Die Evaluation betrachtet die Projektphase 2022 bis 2025.",
+      "belege": [
+        "Q03:B01",
+        "Q03:B05"
+      ]
+    },
+    {
+      "id": "M01",
+      "typ": "Massnahme",
+      "titel": "Individuelle Lernbegleitung",
+      "kurztext": "Eine Person erhält Unterstützung zu eigenen digitalen Fragen.",
+      "belege": [
+        "Q03:B01"
+      ]
+    },
+    {
+      "id": "M03",
+      "typ": "Massnahme",
+      "titel": "Generationenübergreifendes Lernen",
+      "kurztext": "Jüngere und ältere Menschen lernen im persönlichen Austausch.",
+      "belege": [
+        "Q03:B01"
+      ]
+    },
+    {
+      "id": "M04",
+      "typ": "Massnahme",
+      "titel": "Online-Lernangebot",
+      "kurztext": "Ein Lernangebot nutzt digitale Kommunikationswege und ermöglicht Teilnahme von zu Hause.",
+      "belege": [
+        "Q03:B04"
+      ]
+    },
+    {
+      "id": "Z01",
+      "typ": "Zielgruppe",
+      "titel": "Ältere Menschen",
+      "kurztext": "Ältere Menschen, die digitale Angebote nutzen oder den Umgang damit lernen möchten.",
+      "belege": [
+        "Q03:B02"
+      ]
+    },
+    {
+      "id": "K01",
+      "typ": "Kontext",
+      "titel": "Dauerhafter Unterstützungsbedarf",
+      "kurztext": "Ein Einstieg beendet den Bedarf an Unterstützung nicht zwingend.",
+      "belege": [
+        "Q03:B02"
+      ]
+    },
+    {
+      "id": "K03",
+      "typ": "Kontext",
+      "titel": "Begrenzte Zeit für Begleitung",
+      "kurztext": "Planung und Unterstützung brauchen Zeit. Der Bedarf kann die erste Schätzung übersteigen.",
+      "belege": [
+        "Q03:B03"
+      ]
+    },
+    {
+      "id": "K04",
+      "typ": "Kontext",
+      "titel": "Teilnahme bei eingeschränkter Mobilität",
+      "kurztext": "Der Weg zu einem Angebot vor Ort kann die Teilnahme erschweren.",
+      "belege": [
+        "Q03:B04"
+      ]
+    },
+    {
+      "id": "E03",
+      "typ": "Erkenntnis",
+      "titel": "Lern-Tandems brauchen Zeit und Kontinuität",
+      "kurztext": "Positive Rückmeldungen stehen neben Wünschen nach längerer Begleitung und höherem Aufwand.",
+      "belege": [
+        "Q03:B02",
+        "Q03:B03"
+      ],
+      "aussageart": "beobachtung",
+      "beobachtung": "Ältere Teilnehmende wünschten teils eine längere Tandemphase. Studierende berichteten über unerwarteten Aufwand.",
+      "interpretation": "Eine gute Bewertung ersetzt keine Planung von Zeit und Fortführung.",
+      "uebertragbarkeit": "Ein Nachfolgeprojekt sollte Zeit für Vorbereitung und ein mögliches Ende der Begleitung einplanen.",
+      "grenzen": "Die Aussagen betreffen Rückmeldungen aus dem Projekt. Der Kurzbericht liefert hier keinen kausalen Vergleich und keine allgemeine Aufwandspauschale.",
+      "offene_frage": "Welche Fortführung ist mit den verfügbaren Ressourcen möglich?"
+    },
+    {
+      "id": "E04",
+      "typ": "Erkenntnis",
+      "titel": "Online-Teilnahme kann Wege ersparen",
+      "kurztext": "Das Online-Format erleichterte Personen mit eingeschränkter Mobilität die Teilnahme.",
+      "belege": [
+        "Q03:B04"
+      ],
+      "aussageart": "beobachtung",
+      "beobachtung": "Befragte nannten eingeschränkte Mobilität als Grund, weshalb sie sonst nicht hätten teilnehmen können.",
+      "interpretation": "Ein digitales Format kann eine räumliche Zugangshürde verringern.",
+      "uebertragbarkeit": "Ein neues Projekt sollte digitale Wege als mögliche Ergänzung prüfen.",
+      "grenzen": "Die Aussage betrifft Befragte, die am Online-Angebot teilnahmen. Sie sagt nichts über alle ausgeschlossenen Personen oder sensorische Barrieren aus.",
+      "offene_frage": "Welche weiteren Anpassungen brauchen Personen mit Hör- oder Sehbeeinträchtigungen?"
+    }
+  ],
+  "beziehungen": [
+    {
+      "von": "P03",
+      "relation": "bietet",
+      "nach": "M01",
+      "belege": [
+        "Q03:B01"
+      ]
+    },
+    {
+      "von": "P03",
+      "relation": "bietet",
+      "nach": "M03",
+      "belege": [
+        "Q03:B01"
+      ]
+    },
+    {
+      "von": "P03",
+      "relation": "bietet",
+      "nach": "M04",
+      "belege": [
+        "Q03:B04"
+      ]
+    },
+    {
+      "von": "P03",
+      "relation": "richtet_sich_an",
+      "nach": "Z01",
+      "belege": [
+        "Q03:B02"
+      ]
+    },
+    {
+      "von": "E03",
+      "relation": "aus_projekt",
+      "nach": "P03",
+      "belege": [
+        "Q03:B01"
+      ]
+    },
+    {
+      "von": "E03",
+      "relation": "betrifft_massnahme",
+      "nach": "M03",
+      "belege": [
+        "Q03:B01"
+      ]
+    },
+    {
+      "von": "E03",
+      "relation": "gilt_im_kontext",
+      "nach": "K01",
+      "belege": [
+        "Q03:B02"
+      ]
+    },
+    {
+      "von": "E03",
+      "relation": "gilt_im_kontext",
+      "nach": "K03",
+      "belege": [
+        "Q03:B03"
+      ]
+    },
+    {
+      "von": "E04",
+      "relation": "aus_projekt",
+      "nach": "P03",
+      "belege": [
+        "Q03:B04"
+      ]
+    },
+    {
+      "von": "E04",
+      "relation": "betrifft_massnahme",
+      "nach": "M04",
+      "belege": [
+        "Q03:B04"
+      ]
+    },
+    {
+      "von": "E04",
+      "relation": "gilt_im_kontext",
+      "nach": "K04",
+      "belege": [
+        "Q03:B04"
+      ]
+    }
+  ]
+}

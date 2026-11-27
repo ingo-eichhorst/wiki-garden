@@ -1,0 +1,25 @@
+{
+  "quelle": "Q02",
+  "erstellt_durch": "KI; Projektbeschreibung in dieser Sitzung gelesen",
+  "status": "fachlich-ungeprueft",
+  "belege": [
+    {"id": "B01", "abschnitt": "Digitales Wissen verständlich erklärt", "suchtext": "Mit zwei Infomobilen", "aussage": "Das Projekt bringt persönliche Beratung an Treffpunkte älterer Menschen."},
+    {"id": "B02", "abschnitt": "Digital-Patenschaften: Generationen durch digitale Bildung verbinden", "suchtext": "Schüler:innen unterstützen ältere Menschen regelmäßig", "aussage": "Digital-Patenschaften verbinden Schulen und Einrichtungen der Altenhilfe."}
+  ],
+  "entitaeten": [
+    {"id": "P02", "typ": "Projekt", "titel": "Digitaler Engel", "kurztext": "Projekt mit mobiler Beratung und Digital-Patenschaften. Die gesicherte Webseite beschreibt das Angebot zum Abrufzeitpunkt.", "belege": ["Q02:B01", "Q02:B02"]},
+    {"id": "M01", "typ": "Massnahme", "titel": "Individuelle Lernbegleitung", "kurztext": "Eine Person erhält Unterstützung zu eigenen digitalen Fragen.", "belege": ["Q02:B01"]},
+    {"id": "M03", "typ": "Massnahme", "titel": "Generationenübergreifendes Lernen", "kurztext": "Jüngere und ältere Menschen lernen im persönlichen Austausch.", "belege": ["Q02:B02"]},
+    {"id": "Z01", "typ": "Zielgruppe", "titel": "Ältere Menschen", "kurztext": "Ältere Menschen, die digitale Angebote nutzen oder den Umgang damit lernen möchten.", "belege": ["Q02:B01"]},
+    {"id": "K02", "typ": "Kontext", "titel": "Vertraute Treffpunkte vor Ort", "kurztext": "Das Angebot findet dort statt, wo ältere Menschen leben oder sich begegnen.", "belege": ["Q02:B01"]},
+    {"id": "E02", "typ": "Erkenntnis", "titel": "Mobile Beratung sucht Treffpunkte auf", "kurztext": "Der Digitale Engel bringt Beratung unter anderem in Seniorentreffs und Einrichtungen.", "belege": ["Q02:B01"], "aussageart": "beobachtung", "beobachtung": "Die Projektbeschreibung nennt mobile Beratung an Treffpunkten älterer Menschen.", "interpretation": "Ein vorhandener Treffpunkt kann einen Zugang zum Angebot bieten.", "uebertragbarkeit": "Ein neues Projekt kann geeignete Treffpunkte und Partner vor Ort ermitteln.", "grenzen": "Die Webseite beschreibt das Angebot. Sie liefert hier keine unabhängige Wirkungsmessung und keinen Vergleich mit anderen Zugängen.", "offene_frage": "Welche Personen erreicht die mobile Beratung zusätzlich?"}
+  ],
+  "beziehungen": [
+    {"von": "P02", "relation": "bietet", "nach": "M01", "belege": ["Q02:B01"]},
+    {"von": "P02", "relation": "bietet", "nach": "M03", "belege": ["Q02:B02"]},
+    {"von": "P02", "relation": "richtet_sich_an", "nach": "Z01", "belege": ["Q02:B01"]},
+    {"von": "E02", "relation": "aus_projekt", "nach": "P02", "belege": ["Q02:B01"]},
+    {"von": "E02", "relation": "betrifft_massnahme", "nach": "M01", "belege": ["Q02:B01"]},
+    {"von": "E02", "relation": "gilt_im_kontext", "nach": "K02", "belege": ["Q02:B01"]}
+  ]
+}

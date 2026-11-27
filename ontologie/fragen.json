@@ -1,0 +1,67 @@
+[
+  {
+    "id": "KF01",
+    "frage": "Welche Projekte nutzen individuelle Lernbegleitung?",
+    "abfrage": {
+      "ziel": "M01",
+      "relation": "bietet"
+    },
+    "leertext": "Dazu enthält dieser Stand keine Beziehung."
+  },
+  {
+    "id": "KF02",
+    "frage": "Welche Erkenntnisse sprechen für fortlaufende Unterstützung?",
+    "abfrage": {
+      "ziel": "K01",
+      "relation": "gilt_im_kontext"
+    },
+    "leertext": "Dazu enthält dieser Stand keine Erkenntnis."
+  },
+  {
+    "id": "KF03",
+    "frage": "Welche Bedingungen und Grenzen gelten für die Übertragung?",
+    "abfrage": {
+      "typ": "Erkenntnis"
+    },
+    "leertext": "Dazu enthält dieser Stand keine Erkenntnis."
+  },
+  {
+    "id": "KF04",
+    "frage": "Welche Erfahrungen nennt das Wiki zum generationenübergreifenden Lernen?",
+    "abfrage": {
+      "ziel": "M03",
+      "relation": "betrifft_massnahme"
+    },
+    "leertext": "Der Stand enthält noch keine Erkenntnis zum Aufwand oder zu Ergebnissen dieses Formats."
+  },
+  {
+    "id": "KF05",
+    "frage": "Welche Grenzen verhindern einen allgemeinen kausalen Wirksamkeitsnachweis?",
+    "abfrage": {
+      "typ": "Erkenntnis",
+      "nur_grenzen": true
+    },
+    "leertext": "Es liegen keine eingeordneten Erkenntnisse vor."
+  },
+  {
+    "id": "KF06",
+    "frage": "Welche Maßnahmen adressieren welche Barrieren bei Videokonferenzen?",
+    "abfrage": {
+      "relation": "adressiert",
+      "erfordert_typ": "Barriere",
+      "folgebeziehung": {
+        "relation": "tritt_auf_in",
+        "ziel": "K05"
+      }
+    },
+    "leertext": "Das Modell unterstützt die Frage. Es sind jedoch noch keine passenden Beziehungen erfasst."
+  },
+  {
+    "id": "KF07",
+    "frage": "Welche ausdrücklich belegten Widersprüche sind erfasst?",
+    "abfrage": {
+      "relation": "widerspricht"
+    },
+    "leertext": "Keine explizit modellierten Widersprüche. Das beweist keine Widerspruchsfreiheit. Unterschiedliche Bedingungen sind nicht automatisch ein Widerspruch."
+  }
+]

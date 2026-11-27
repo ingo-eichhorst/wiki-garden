@@ -1,0 +1,691 @@
+{
+  "ontologie": "1.0.0",
+  "entitaeten": {
+    "P01": {
+      "id": "P01",
+      "typ": "Projekt",
+      "titel": "DigitalPakt Alter",
+      "kurztext": "Förderprogramm für lokale Lernangebote zur digitalen Teilhabe älterer Menschen. Der betrachtete Bericht bezieht sich auf die ersten 150 Erfahrungsorte.",
+      "belege": [
+        "Q01:B04"
+      ],
+      "status": "fachlich-ungeprueft"
+    },
+    "M01": {
+      "id": "M01",
+      "typ": "Massnahme",
+      "titel": "Individuelle Lernbegleitung",
+      "kurztext": "Eine Person erhält Unterstützung zu eigenen digitalen Fragen.",
+      "belege": [
+        "Q01:B01",
+        "Q02:B01",
+        "Q03:B01"
+      ],
+      "status": "fachlich-ungeprueft"
+    },
+    "M02": {
+      "id": "M02",
+      "typ": "Massnahme",
+      "titel": "Regelmäßige Übungsgruppe",
+      "kurztext": "Mehrere Personen üben digitale Anwendungen mit Begleitung.",
+      "belege": [
+        "Q01:B01"
+      ],
+      "status": "fachlich-ungeprueft"
+    },
+    "Z01": {
+      "id": "Z01",
+      "typ": "Zielgruppe",
+      "titel": "Ältere Menschen",
+      "kurztext": "Ältere Menschen, die digitale Angebote nutzen oder den Umgang damit lernen möchten.",
+      "belege": [
+        "Q01:B04",
+        "Q02:B01",
+        "Q03:B02"
+      ],
+      "status": "fachlich-ungeprueft"
+    },
+    "K01": {
+      "id": "K01",
+      "typ": "Kontext",
+      "titel": "Dauerhafter Unterstützungsbedarf",
+      "kurztext": "Ein Einstieg beendet den Bedarf an Unterstützung nicht zwingend.",
+      "belege": [
+        "Q01:B03",
+        "Q03:B02"
+      ],
+      "status": "fachlich-ungeprueft"
+    },
+    "E01": {
+      "id": "E01",
+      "typ": "Erkenntnis",
+      "titel": "Einstieg braucht weitere Unterstützung",
+      "kurztext": "Der Bericht leitet aus wiederholter Nutzung einen längerfristigen Unterstützungsbedarf ab.",
+      "belege": [
+        "Q01:B02",
+        "Q01:B03"
+      ],
+      "aussageart": "empfehlung",
+      "beobachtung": "In der Befragung wurden Sprechstunden und Kurse oft mehrfach besucht.",
+      "interpretation": "Wiederholte Nutzung kann einen Bedarf an fortlaufender Begleitung anzeigen.",
+      "uebertragbarkeit": "Nachfolgeprojekte sollten prüfen, wie sie weitere Rückfragen nach einem Einstieg auffangen.",
+      "grenzen": "Die Befragung belegt keine kausale Wirkung dauerhafter Beratung. Die Stichprobe einer einzelnen Abbildung darf nicht auf alle Berichtsteile übertragen werden.",
+      "offene_frage": "Wie viel Begleitung brauchen verschiedene Gruppen nach dem ersten Angebot?",
+      "status": "fachlich-ungeprueft"
+    },
+    "P02": {
+      "id": "P02",
+      "typ": "Projekt",
+      "titel": "Digitaler Engel",
+      "kurztext": "Projekt mit mobiler Beratung und Digital-Patenschaften. Die gesicherte Webseite beschreibt das Angebot zum Abrufzeitpunkt.",
+      "belege": [
+        "Q02:B01",
+        "Q02:B02"
+      ],
+      "status": "fachlich-ungeprueft"
+    },
+    "M03": {
+      "id": "M03",
+      "typ": "Massnahme",
+      "titel": "Generationenübergreifendes Lernen",
+      "kurztext": "Jüngere und ältere Menschen lernen im persönlichen Austausch.",
+      "belege": [
+        "Q02:B02",
+        "Q03:B01"
+      ],
+      "status": "fachlich-ungeprueft"
+    },
+    "K02": {
+      "id": "K02",
+      "typ": "Kontext",
+      "titel": "Vertraute Treffpunkte vor Ort",
+      "kurztext": "Das Angebot findet dort statt, wo ältere Menschen leben oder sich begegnen.",
+      "belege": [
+        "Q02:B01"
+      ],
+      "status": "fachlich-ungeprueft"
+    },
+    "E02": {
+      "id": "E02",
+      "typ": "Erkenntnis",
+      "titel": "Mobile Beratung sucht Treffpunkte auf",
+      "kurztext": "Der Digitale Engel bringt Beratung unter anderem in Seniorentreffs und Einrichtungen.",
+      "belege": [
+        "Q02:B01"
+      ],
+      "aussageart": "beobachtung",
+      "beobachtung": "Die Projektbeschreibung nennt mobile Beratung an Treffpunkten älterer Menschen.",
+      "interpretation": "Ein vorhandener Treffpunkt kann einen Zugang zum Angebot bieten.",
+      "uebertragbarkeit": "Ein neues Projekt kann geeignete Treffpunkte und Partner vor Ort ermitteln.",
+      "grenzen": "Die Webseite beschreibt das Angebot. Sie liefert hier keine unabhängige Wirkungsmessung und keinen Vergleich mit anderen Zugängen.",
+      "offene_frage": "Welche Personen erreicht die mobile Beratung zusätzlich?",
+      "status": "fachlich-ungeprueft"
+    },
+    "P03": {
+      "id": "P03",
+      "typ": "Projekt",
+      "titel": "Digital-Kompass",
+      "kurztext": "Angebot zur digitalen Teilhabe. Die Evaluation betrachtet die Projektphase 2022 bis 2025.",
+      "belege": [
+        "Q03:B01",
+        "Q03:B05"
+      ],
+      "status": "fachlich-ungeprueft"
+    },
+    "M04": {
+      "id": "M04",
+      "typ": "Massnahme",
+      "titel": "Online-Lernangebot",
+      "kurztext": "Ein Lernangebot nutzt digitale Kommunikationswege und ermöglicht Teilnahme von zu Hause.",
+      "belege": [
+        "Q03:B04"
+      ],
+      "status": "fachlich-ungeprueft"
+    },
+    "K03": {
+      "id": "K03",
+      "typ": "Kontext",
+      "titel": "Begrenzte Zeit für Begleitung",
+      "kurztext": "Planung und Unterstützung brauchen Zeit. Der Bedarf kann die erste Schätzung übersteigen.",
+      "belege": [
+        "Q03:B03"
+      ],
+      "status": "fachlich-ungeprueft"
+    },
+    "K04": {
+      "id": "K04",
+      "typ": "Kontext",
+      "titel": "Teilnahme bei eingeschränkter Mobilität",
+      "kurztext": "Der Weg zu einem Angebot vor Ort kann die Teilnahme erschweren.",
+      "belege": [
+        "Q03:B04"
+      ],
+      "status": "fachlich-ungeprueft"
+    },
+    "E03": {
+      "id": "E03",
+      "typ": "Erkenntnis",
+      "titel": "Lern-Tandems brauchen Zeit und Kontinuität",
+      "kurztext": "Positive Rückmeldungen stehen neben Wünschen nach längerer Begleitung und höherem Aufwand.",
+      "belege": [
+        "Q03:B02",
+        "Q03:B03"
+      ],
+      "aussageart": "beobachtung",
+      "beobachtung": "Ältere Teilnehmende wünschten teils eine längere Tandemphase. Studierende berichteten über unerwarteten Aufwand.",
+      "interpretation": "Eine gute Bewertung ersetzt keine Planung von Zeit und Fortführung.",
+      "uebertragbarkeit": "Ein Nachfolgeprojekt sollte Zeit für Vorbereitung und ein mögliches Ende der Begleitung einplanen.",
+      "grenzen": "Die Aussagen betreffen Rückmeldungen aus dem Projekt. Der Kurzbericht liefert hier keinen kausalen Vergleich und keine allgemeine Aufwandspauschale.",
+      "offene_frage": "Welche Fortführung ist mit den verfügbaren Ressourcen möglich?",
+      "status": "fachlich-ungeprueft"
+    },
+    "E04": {
+      "id": "E04",
+      "typ": "Erkenntnis",
+      "titel": "Online-Teilnahme kann Wege ersparen",
+      "kurztext": "Das Online-Format erleichterte Personen mit eingeschränkter Mobilität die Teilnahme.",
+      "belege": [
+        "Q03:B04"
+      ],
+      "aussageart": "beobachtung",
+      "beobachtung": "Befragte nannten eingeschränkte Mobilität als Grund, weshalb sie sonst nicht hätten teilnehmen können.",
+      "interpretation": "Ein digitales Format kann eine räumliche Zugangshürde verringern.",
+      "uebertragbarkeit": "Ein neues Projekt sollte digitale Wege als mögliche Ergänzung prüfen.",
+      "grenzen": "Die Aussage betrifft Befragte, die am Online-Angebot teilnahmen. Sie sagt nichts über alle ausgeschlossenen Personen oder sensorische Barrieren aus.",
+      "offene_frage": "Welche weiteren Anpassungen brauchen Personen mit Hör- oder Sehbeeinträchtigungen?",
+      "status": "fachlich-ungeprueft"
+    },
+    "Q01": {
+      "id": "Q01",
+      "typ": "Quelle",
+      "titel": "Die Arbeit von 150 geförderten Erfahrungsorten im DigitalPakt Alter – Ergebnisse einer Online-Umfrage im Sommer 2022",
+      "kurztext": "Original von Herbert Kubicek, ifib; im Auftrag der BAGSO.",
+      "belege": [],
+      "status": "fachlich-ungeprueft"
+    },
+    "Q02": {
+      "id": "Q02",
+      "typ": "Quelle",
+      "titel": "Über das Projekt: Digitaler Engel",
+      "kurztext": "Original von Deutschland sicher im Netz e. V..",
+      "belege": [],
+      "status": "fachlich-ungeprueft"
+    },
+    "Q03": {
+      "id": "Q03",
+      "typ": "Quelle",
+      "titel": "Digital-Kompass: Digitale Teilhabe für Menschen mit besonderen Aufklärungsbedarfen – Kurzbericht",
+      "kurztext": "Original von Digital-Kompass; Evaluation durch SÖSTRA (Monika Putzing und Linda Wittbrodt).",
+      "belege": [],
+      "status": "fachlich-ungeprueft"
+    }
+  },
+  "belege": {
+    "Q01:B01": {
+      "id": "B01",
+      "seite": 18,
+      "suchtext": "Offene Sprechstunde",
+      "aussage": "Die Befragung erfasst persönliche Beratung und regelmäßige Übungsgruppen als Angebotsformate.",
+      "quelle": "Q01"
+    },
+    "Q01:B02": {
+      "id": "B02",
+      "seite": 22,
+      "suchtext": "n= 127 Teilnehmende",
+      "aussage": "Die Darstellung erfasst wiederholte Teilnahmen. Die Basis dieser Abbildung sind 127 Teilnehmende.",
+      "quelle": "Q01"
+    },
+    "Q01:B03": {
+      "id": "B03",
+      "seite": 69,
+      "suchtext": "dauerhafte Supportmöglichkeiten",
+      "aussage": "Der Bericht empfiehlt dauerhafte Unterstützung. Einstiegskompetenzen reichen für komplexe Anwendungen nicht immer aus.",
+      "quelle": "Q01"
+    },
+    "Q01:B04": {
+      "id": "B04",
+      "seite": 2,
+      "suchtext": "Online-Befragung",
+      "aussage": "Die Untersuchung befragt Leitungskräfte, Helfende und Teilnehmende. Sie beschreibt Erfahrungen und Einschätzungen.",
+      "quelle": "Q01"
+    },
+    "Q02:B01": {
+      "id": "B01",
+      "abschnitt": "Digitales Wissen verständlich erklärt",
+      "suchtext": "Mit zwei Infomobilen",
+      "aussage": "Das Projekt bringt persönliche Beratung an Treffpunkte älterer Menschen.",
+      "quelle": "Q02"
+    },
+    "Q02:B02": {
+      "id": "B02",
+      "abschnitt": "Digital-Patenschaften: Generationen durch digitale Bildung verbinden",
+      "suchtext": "Schüler:innen unterstützen ältere Menschen regelmäßig",
+      "aussage": "Digital-Patenschaften verbinden Schulen und Einrichtungen der Altenhilfe.",
+      "quelle": "Q02"
+    },
+    "Q03:B01": {
+      "id": "B01",
+      "seite": 4,
+      "suchtext": "Zweier-Teams",
+      "aussage": "Lern-Tandems verbinden Studierende mit Menschen, die Unterstützung bei digitalen Anwendungen suchen.",
+      "quelle": "Q03"
+    },
+    "Q03:B02": {
+      "id": "B02",
+      "seite": 7,
+      "suchtext": "wertvolle Beziehungen",
+      "aussage": "Der Bericht nennt positive Rückmeldungen sowie Wünsche nach einer längeren Tandemphase.",
+      "quelle": "Q03"
+    },
+    "Q03:B03": {
+      "id": "B03",
+      "seite": 8,
+      "suchtext": "mehr Zeit und Aufwand",
+      "aussage": "Studierende berichteten von höherem Vorbereitungs- und Unterstützungsaufwand als erwartet.",
+      "quelle": "Q03"
+    },
+    "Q03:B04": {
+      "id": "B04",
+      "seite": 9,
+      "suchtext": "eingeschränkter Mobilität",
+      "aussage": "Das Online-Format erleichterte Befragten mit eingeschränkter Mobilität die Teilnahme.",
+      "quelle": "Q03"
+    },
+    "Q03:B05": {
+      "id": "B05",
+      "seite": 3,
+      "suchtext": "Jahren 2022 bis 2025",
+      "aussage": "Die Zusammenfassung nennt den betrachteten Projektzeitraum und SÖSTRA als Evaluationsinstitut.",
+      "quelle": "Q03"
+    }
+  },
+  "beziehungen": [
+    {
+      "von": "P01",
+      "relation": "bietet",
+      "nach": "M01",
+      "belege": [
+        "Q01:B01"
+      ]
+    },
+    {
+      "von": "P01",
+      "relation": "bietet",
+      "nach": "M02",
+      "belege": [
+        "Q01:B01"
+      ]
+    },
+    {
+      "von": "P01",
+      "relation": "richtet_sich_an",
+      "nach": "Z01",
+      "belege": [
+        "Q01:B04"
+      ]
+    },
+    {
+      "von": "E01",
+      "relation": "aus_projekt",
+      "nach": "P01",
+      "belege": [
+        "Q01:B04"
+      ]
+    },
+    {
+      "von": "E01",
+      "relation": "betrifft_massnahme",
+      "nach": "M01",
+      "belege": [
+        "Q01:B02"
+      ]
+    },
+    {
+      "von": "E01",
+      "relation": "gilt_im_kontext",
+      "nach": "K01",
+      "belege": [
+        "Q01:B03"
+      ]
+    },
+    {
+      "von": "P02",
+      "relation": "bietet",
+      "nach": "M01",
+      "belege": [
+        "Q02:B01"
+      ]
+    },
+    {
+      "von": "P02",
+      "relation": "bietet",
+      "nach": "M03",
+      "belege": [
+        "Q02:B02"
+      ]
+    },
+    {
+      "von": "P02",
+      "relation": "richtet_sich_an",
+      "nach": "Z01",
+      "belege": [
+        "Q02:B01"
+      ]
+    },
+    {
+      "von": "E02",
+      "relation": "aus_projekt",
+      "nach": "P02",
+      "belege": [
+        "Q02:B01"
+      ]
+    },
+    {
+      "von": "E02",
+      "relation": "betrifft_massnahme",
+      "nach": "M01",
+      "belege": [
+        "Q02:B01"
+      ]
+    },
+    {
+      "von": "E02",
+      "relation": "gilt_im_kontext",
+      "nach": "K02",
+      "belege": [
+        "Q02:B01"
+      ]
+    },
+    {
+      "von": "P03",
+      "relation": "bietet",
+      "nach": "M01",
+      "belege": [
+        "Q03:B01"
+      ]
+    },
+    {
+      "von": "P03",
+      "relation": "bietet",
+      "nach": "M03",
+      "belege": [
+        "Q03:B01"
+      ]
+    },
+    {
+      "von": "P03",
+      "relation": "bietet",
+      "nach": "M04",
+      "belege": [
+        "Q03:B04"
+      ]
+    },
+    {
+      "von": "P03",
+      "relation": "richtet_sich_an",
+      "nach": "Z01",
+      "belege": [
+        "Q03:B02"
+      ]
+    },
+    {
+      "von": "E03",
+      "relation": "aus_projekt",
+      "nach": "P03",
+      "belege": [
+        "Q03:B01"
+      ]
+    },
+    {
+      "von": "E03",
+      "relation": "betrifft_massnahme",
+      "nach": "M03",
+      "belege": [
+        "Q03:B01"
+      ]
+    },
+    {
+      "von": "E03",
+      "relation": "gilt_im_kontext",
+      "nach": "K01",
+      "belege": [
+        "Q03:B02"
+      ]
+    },
+    {
+      "von": "E03",
+      "relation": "gilt_im_kontext",
+      "nach": "K03",
+      "belege": [
+        "Q03:B03"
+      ]
+    },
+    {
+      "von": "E04",
+      "relation": "aus_projekt",
+      "nach": "P03",
+      "belege": [
+        "Q03:B04"
+      ]
+    },
+    {
+      "von": "E04",
+      "relation": "betrifft_massnahme",
+      "nach": "M04",
+      "belege": [
+        "Q03:B04"
+      ]
+    },
+    {
+      "von": "E04",
+      "relation": "gilt_im_kontext",
+      "nach": "K04",
+      "belege": [
+        "Q03:B04"
+      ]
+    },
+    {
+      "von": "P01",
+      "relation": "belegt_durch",
+      "nach": "Q01",
+      "belege": [
+        "Q01:B04"
+      ]
+    },
+    {
+      "von": "M01",
+      "relation": "belegt_durch",
+      "nach": "Q01",
+      "belege": [
+        "Q01:B01"
+      ]
+    },
+    {
+      "von": "M01",
+      "relation": "belegt_durch",
+      "nach": "Q02",
+      "belege": [
+        "Q02:B01"
+      ]
+    },
+    {
+      "von": "M01",
+      "relation": "belegt_durch",
+      "nach": "Q03",
+      "belege": [
+        "Q03:B01"
+      ]
+    },
+    {
+      "von": "M02",
+      "relation": "belegt_durch",
+      "nach": "Q01",
+      "belege": [
+        "Q01:B01"
+      ]
+    },
+    {
+      "von": "Z01",
+      "relation": "belegt_durch",
+      "nach": "Q01",
+      "belege": [
+        "Q01:B04"
+      ]
+    },
+    {
+      "von": "Z01",
+      "relation": "belegt_durch",
+      "nach": "Q02",
+      "belege": [
+        "Q02:B01"
+      ]
+    },
+    {
+      "von": "Z01",
+      "relation": "belegt_durch",
+      "nach": "Q03",
+      "belege": [
+        "Q03:B02"
+      ]
+    },
+    {
+      "von": "K01",
+      "relation": "belegt_durch",
+      "nach": "Q01",
+      "belege": [
+        "Q01:B03"
+      ]
+    },
+    {
+      "von": "K01",
+      "relation": "belegt_durch",
+      "nach": "Q03",
+      "belege": [
+        "Q03:B02"
+      ]
+    },
+    {
+      "von": "E01",
+      "relation": "belegt_durch",
+      "nach": "Q01",
+      "belege": [
+        "Q01:B02",
+        "Q01:B03"
+      ]
+    },
+    {
+      "von": "P02",
+      "relation": "belegt_durch",
+      "nach": "Q02",
+      "belege": [
+        "Q02:B01",
+        "Q02:B02"
+      ]
+    },
+    {
+      "von": "M03",
+      "relation": "belegt_durch",
+      "nach": "Q02",
+      "belege": [
+        "Q02:B02"
+      ]
+    },
+    {
+      "von": "M03",
+      "relation": "belegt_durch",
+      "nach": "Q03",
+      "belege": [
+        "Q03:B01"
+      ]
+    },
+    {
+      "von": "K02",
+      "relation": "belegt_durch",
+      "nach": "Q02",
+      "belege": [
+        "Q02:B01"
+      ]
+    },
+    {
+      "von": "E02",
+      "relation": "belegt_durch",
+      "nach": "Q02",
+      "belege": [
+        "Q02:B01"
+      ]
+    },
+    {
+      "von": "P03",
+      "relation": "belegt_durch",
+      "nach": "Q03",
+      "belege": [
+        "Q03:B01",
+        "Q03:B05"
+      ]
+    },
+    {
+      "von": "M04",
+      "relation": "belegt_durch",
+      "nach": "Q03",
+      "belege": [
+        "Q03:B04"
+      ]
+    },
+    {
+      "von": "K03",
+      "relation": "belegt_durch",
+      "nach": "Q03",
+      "belege": [
+        "Q03:B03"
+      ]
+    },
+    {
+      "von": "K04",
+      "relation": "belegt_durch",
+      "nach": "Q03",
+      "belege": [
+        "Q03:B04"
+      ]
+    },
+    {
+      "von": "E03",
+      "relation": "belegt_durch",
+      "nach": "Q03",
+      "belege": [
+        "Q03:B02",
+        "Q03:B03"
+      ]
+    },
+    {
+      "von": "E04",
+      "relation": "belegt_durch",
+      "nach": "Q03",
+      "belege": [
+        "Q03:B04"
+      ]
+    }
+  ],
+  "quellen": [
+    "Q01",
+    "Q02",
+    "Q03"
+  ],
+  "eingaben": {
+    "ontologie_sha256": "b5c87e1ff304a18e39d83429e5e7d4d08857c3ef6dc00576dc674114f34e9c9e",
+    "fragen_sha256": "f1f8101db83d599fec4f0c25a787386f87224d3e841361210621b74c1ad6ecfe",
+    "pakete": [
+      {
+        "pfad": "extraktionen/Q01.json",
+        "sha256": "01649b0861ab6d6093c74d6d1a98eda44bc909a9d4ec9fa390aa183657b9d39f"
+      },
+      {
+        "pfad": "extraktionen/Q02.json",
+        "sha256": "7147602a76e6684a044dd354dc30a5ee593538df43ed2aaf181815abd1d60a2b"
+      },
+      {
+        "pfad": "extraktionen/Q03.json",
+        "sha256": "d38c5144ecb70cbff18dd0259413e046044fadc8e32083ec79a82d041e752675"
+      }
+    ]
+  }
+}
